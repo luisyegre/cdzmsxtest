@@ -16,5 +16,11 @@
     "name": "CDZzz",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "62b34a7f-fe72-3fb3-99a9-950ba8af2f9e",
+    "name": "luis",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
